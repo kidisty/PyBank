@@ -64,7 +64,7 @@ output = (
     f"Greatest Increase in Profits: {greatest_increase[0]} (${greatest_increase[1]})\n"
     f"Greatest Decrease in Profits: {greatest_decrease[0]} (${greatest_decrease[1]})\n")
 
-# Print the output (to terminal)
+# Print the output to terminal
 print(output)
 
 # Export the results to text file
