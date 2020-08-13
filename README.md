@@ -5,7 +5,8 @@ Created a python script for analyzing the financial records of the bank.
 
 The dataset is composed of two columns: Date and Profit/Losses.
 
-Calculated:
+
+Calculations:
 
 The total number of months included in the dataset
 
