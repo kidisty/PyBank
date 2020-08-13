@@ -3,7 +3,8 @@ Analysis of monthly financial profits.
 
 Created a python script for analyzing the financial records of the bank. 
 
-The dataset is composed of two columns: Date and Profit/Losses.
+The dataset is composed of two columns: 
+Date and Profit/Losses.
 
 
 Calculations:
