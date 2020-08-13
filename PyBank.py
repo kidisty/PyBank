@@ -54,7 +54,7 @@ with open(file_to_load) as financial_data:
 # Calculate the Average Net Change
 net_monthly_avg = sum(net_change_list) / len(net_change_list)
 
-# Generate Output Summary
+# Generate the Output Summary
 output = (
     f"\nFinancial Analysis\n"
     f"----------------------------\n"
