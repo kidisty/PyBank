@@ -51,7 +51,7 @@ with open(file_to_load) as financial_data:
             greatest_decrease[0] = row[0]
             greatest_decrease[1] = net_change
 
-# Calculate the Average Net Change
+# Calculate Average Net Change
 net_monthly_avg = sum(net_change_list) / len(net_change_list)
 
 # Generate Output Summary
