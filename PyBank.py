@@ -54,7 +54,7 @@ with open(file_to_load) as financial_data:
 # Calculate the Average Net Change
 net_monthly_avg = sum(net_change_list) / len(net_change_list)
 
-# Generate the Output Summary
+# Generate Output Summary
 output = (
     f"\nFinancial Analysis\n"
     f"----------------------------\n"
@@ -64,7 +64,7 @@ output = (
     f"Greatest Increase in Profits: {greatest_increase[0]} (${greatest_increase[1]})\n"
     f"Greatest Decrease in Profits: {greatest_decrease[0]} (${greatest_decrease[1]})\n")
 
-# Print the output to terminal
+# Print the output (to terminal)
 print(output)
 
 # Export the results to text file
