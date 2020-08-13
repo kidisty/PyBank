@@ -1,5 +1,5 @@
 # PyBank
-Analysis of monthly financial profits
+Analysis of monthly financial profits.
 
 Created a python script for analyzing the financial records of the bank. 
 
